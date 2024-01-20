@@ -1,0 +1,4 @@
+Ep core.sqlserver
+ep core tools 
+pckg manager => Add-Migration "CreateDb"
+		Update-database 
